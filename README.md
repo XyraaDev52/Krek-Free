@@ -13,4 +13,4 @@ $ git clone https://github.com/XyraaDev52/Krek-Free
 
 $ cd Krek-Free
 
-$ pytho  free.py
+$ pytho  xinfb.py
